@@ -1,13 +1,5 @@
 # Secure Gardening
 
-## HOW TO
-- [Safety remove your personal data, by Committee to Protect Journalists](https://cpj.org/2019/09/digital-safety-remove-personal-data-internet/)
-- [Sweep for bugs, by Wired](https://www.wired.com/story/how-to-sweep-for-bugs/)
-- [Stop Facebook tracking you, by The Independent](https://www.independent.co.uk/life-style/gadgets-and-tech/news/facebook-tracking-activity-how-internet-privacy-a9072961.html)
-- [Protect your phone,by NY Times](https://www.nytimes.com/interactive/2019/12/19/opinion/location-tracking-privacy-tips.html)
-- [Overcoming Stalkerware by Coalition Against Stalkerware](https://stopstalkerware.org/get-help/)
-- [Remove metadata, by Digital Citizen](https://www.digitalcitizen.life/remove-metadata-file/)
-
 ## CHECKING TOOLS
 - [To check if your email or phone is in a data breach, by Have I Been Pwned](http://www.haveibeenpwnd.com/)
 - [Also to check if your email or phone is in a data breach, but by Firefox](https://monitor.firefox.com)
@@ -19,3 +11,19 @@
 - [To analyze suspicious files and URLs to detect types of malware, by VirusTotal](https://www.virustotal.com/gui/)
 - [To inspect website privacy in real-time, by The Markup](https://themarkup.org/blacklight)
 - [To check pictures' metadata](http://exif.regex.info/exif.cgi)
+
+## HOW TO
+- [Safety remove your personal data, by Committee to Protect Journalists](https://cpj.org/2019/09/digital-safety-remove-personal-data-internet/)
+- [Sweep for bugs, by Wired](https://www.wired.com/story/how-to-sweep-for-bugs/)
+- [Stop Facebook tracking you, by The Independent](https://www.independent.co.uk/life-style/gadgets-and-tech/news/facebook-tracking-activity-how-internet-privacy-a9072961.html)
+- [Protect your phone, by NY Times](https://www.nytimes.com/interactive/2019/12/19/opinion/location-tracking-privacy-tips.html)
+- [Overcoming Stalkerware by Coalition Against Stalkerware](https://stopstalkerware.org/get-help/)
+- [Remove metadata, by Digital Citizen](https://www.digitalcitizen.life/remove-metadata-file/)
+
+## REPOSITORY
+- [De-google-ify Internet](https://degooglisons-internet.org/en/alternatives)
+- [Free and open source software catalogue for Android, by F-Droid](https://f-droid.org/)
+- [Alternative apps center, by Me & My Shadow](https://myshadow.org/resources)
+
+## DOWNLOADS
+
