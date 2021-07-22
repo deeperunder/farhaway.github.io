@@ -1,4 +1,4 @@
-# farhaway.github.io
+# Secure Gardening
 
 ## HOW TO
 - [Safety remove your personal data, by Committee to Protect Journalists](https://cpj.org/2019/09/digital-safety-remove-personal-data-internet/)
