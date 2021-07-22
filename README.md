@@ -1,4 +1,4 @@
-# S e c u r e    G a r d e n i n g
+# Secure Gardening
 
 ## CHECKING TOOLS
 - [To check if your email or phone is in a data breach, by Have I Been Pwned](http://www.haveibeenpwnd.com/)
