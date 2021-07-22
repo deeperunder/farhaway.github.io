@@ -26,4 +26,5 @@
 - [Alternative apps center, by Me & My Shadow](https://myshadow.org/resources)
 
 ## DOWNLOADS
-
+- [Zines from Psaroskala on OpenVPNs, Raspberry Pi, etc](https://psaroskalazines.gr/zines/)
+- 
