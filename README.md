@@ -24,6 +24,7 @@
 - [De-google-ify Internet](https://degooglisons-internet.org/en/alternatives)
 - [Free and open source software catalogue for Android, by F-Droid](https://f-droid.org/)
 - [Alternative apps center, by Me & My Shadow](https://myshadow.org/resources)
+- [Repository on Online Gaming Security, especially for women](https://farhaway.github.io/securegaming/)
 
 ## DOWNLOADS
 - [Zines from Psaroskala on OpenVPNs, Raspberry Pi, etc](https://psaroskalazines.gr/zines/)
