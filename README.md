@@ -54,3 +54,14 @@ Hi, I'm trying to cultivate links on digital security for learning. Expect stuff
 
 
 #### contact: farhanah88@protonmail.com
+
+<table border="0">
+ <tr>
+    <td><b style="font-size:30px">Title</b></td>
+    <td><b style="font-size:30px">Title 2</b></td>
+ </tr>
+ <tr>
+    <td>Lorem ipsum ...</td>
+    <td>Lorem ipsum ...</td>
+ </tr>
+</table>
