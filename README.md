@@ -1,5 +1,5 @@
 # Secure Gardening
-Hi, I'm trying to cultivate links on digital security for learning. Expect stuffs around tips, surveillance hack, alternative and feminist internet. I hope it can be useful for you too.
+Hi, I'm trying to cultivate links on digital security for learning. Expect stuffs around tips, surveillance hack, alternative and feminist internet. 
 
 ## CHECKING TOOLS
 - [Have I Been Pwned](http://www.haveibeenpwnd.com/) - To check if your email or phone is in a data breach.
@@ -53,5 +53,4 @@ Hi, I'm trying to cultivate links on digital security for learning. Expect stuff
 - [Tor: Myths and Facts One-Pager Handsout by Electronic Frontier Foundation](https://www.eff.org/document/tor-myths-and-facts-0)
 
 
-
-#### _Contact: fanifanifani@protonmail.com_
+#### contact: farhanah88@protonmail.com
