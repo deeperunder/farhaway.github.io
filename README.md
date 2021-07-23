@@ -31,4 +31,5 @@ Hi, I'm trying to cultivate links on digital security for learning. I hope it ca
 - [Zines from Psaroskala on OpenVPNs, Raspberry Pi, etc](https://psaroskalazines.gr/zines/)
 
 
-#### Contact: fanifanifani@protonmail.com
+
+#### _Contact: fanifanifani@protonmail.com_
