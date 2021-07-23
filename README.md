@@ -20,6 +20,7 @@ Hi, I'm trying to cultivate links on digital security for learning. I hope it ca
 - [Stop Facebook tracking you, by The Independent](https://www.independent.co.uk/life-style/gadgets-and-tech/news/facebook-tracking-activity-how-internet-privacy-a9072961.html)
 - [Protect your phone, by NY Times](https://www.nytimes.com/interactive/2019/12/19/opinion/location-tracking-privacy-tips.html)
 - [Two-Factor Authentication: Who Has It and How to Set It Up](https://sea.pcmag.com/encryption-products/19323/two-factor-authentication-who-has-it-and-how-to-set-it-up?utm_source=pocket_mylist)
+- [How to use the Tor Browser’s tools to protect your privacy](https://www.theverge.com/2020/2/21/21138403/tor-privacy-tools-private-network-browser-settings-security)
 - [Overcoming Stalkerware by Coalition Against Stalkerware](https://stopstalkerware.org/get-help/)
 - [Remove metadata, by Digital Citizen](https://www.digitalcitizen.life/remove-metadata-file/)
 - [A DIY Guide to Feminist Cybersecurity](https://hackblossom.org/cybersecurity/?utm_source=pocket_mylist)
@@ -30,6 +31,8 @@ Hi, I'm trying to cultivate links on digital security for learning. I hope it ca
 - [How to hide from a drone – the subtle art of ‘ghosting’ in the age of surveillance](https://theconversation.com/how-to-hide-from-a-drone-the-subtle-art-of-ghosting-in-the-age-of-surveillance-143078?utm_source=pocket_mylist)
 - [How to Use a Raspberry Pi as a Dead Drop for Anonymous Offline Communication](https://null-byte.wonderhowto.com/how-to/use-raspberry-pi-as-dead-drop-for-anonymous-offline-communication-0179743/)
 - [How to Track the Tech That's Tracking You Every Day](https://gizmodo.com/how-to-track-the-tech-thats-tracking-you-every-day-1843908029)
+- [How to Reset Your Web Browser and Start Again From Scratch](https://gizmodo.com/how-to-reset-your-web-browser-and-start-again-from-scra-1842094169/amp?__twitter_impression=true&utm_source=pocket_mylist)
+- [Google collects a frightening amount of data about you. You can find and delete it now](https://www.cnet.com/tech/services-and-software/google-collects-a-frightening-amount-of-data-about-you-you-can-find-and-delete-it-now/)
 
 ## COMPREHENSIVE KIT
 - [Digital First Aid Kit](https://digitalfirstaid.org/en/) - a free resource to help rapid responders, digital security trainers, and tech-savvy activists to better protect themselves and the communities they support against the most common types of digital emergencies, by RaReNet & CiviCERT.
