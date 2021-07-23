@@ -14,6 +14,7 @@ Hi, I'm trying to cultivate links on digital security for learning. I hope it ca
 - [Jeffrey's Image Metadata Viewer](http://exif.regex.info/exif.cgi) - To check pictures' metadata.
 
 ## HOW TO
+- [Digital Hygiene 101: How to practice digital safety and security](https://coconet.social/digital-hygiene-safety-security/) - Coconet
 - [Safety remove your personal data, by Committee to Protect Journalists](https://cpj.org/2019/09/digital-safety-remove-personal-data-internet/)
 - [Sweep for bugs, by Wired](https://www.wired.com/story/how-to-sweep-for-bugs/)
 - [Stop Facebook tracking you, by The Independent](https://www.independent.co.uk/life-style/gadgets-and-tech/news/facebook-tracking-activity-how-internet-privacy-a9072961.html)
