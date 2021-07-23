@@ -4,14 +4,14 @@ Hi, I'm trying to cultivate links on digital security for learning. I hope it ca
 ## CHECKING TOOLS
 - [Have I Been Pwned](http://www.haveibeenpwnd.com/) - To check if your email or phone is in a data breach.
 - [Firefox Monitor](https://monitor.firefox.com) - Also to check if your email or phone is in a data breach, Firefox use Have I Been Pwned data.
-- [Periksa Data](https://periksadata.com/) - Also to check if your email or phone is in a data breach, but in Indonesian
+- [Periksa Data](https://periksadata.com/) - Also to check if your email or phone is in a data breach, but in Indonesian.
 - [Have I Been Pwned: Pwned Passwords](https://haveibeenpwned.com/Passwords) - To check if the passwords you use is part of a data breach.
-- [To check how strong your passwords, by Passfault](http://passfault.com/)
-- [To scan your website security, by Mozilla](https://observatory.mozilla.org/)
-- [To check the privacy audit of your Andoird apps, by Exodus](https://reports.exodus-privacy.eu.org/en/)
-- [To analyze suspicious files and URLs to detect types of malware, by VirusTotal](https://www.virustotal.com/gui/)
-- [To inspect website privacy in real-time, by The Markup](https://themarkup.org/blacklight)
-- [To check pictures' metadata](http://exif.regex.info/exif.cgi)
+- [Passfault](http://passfault.com/) - To check how strong your password is.
+- [Mozilla Observatory](https://observatory.mozilla.org/) - To scan your website security and how to configure your sites safely and securely. 
+- [Exodus](https://reports.exodus-privacy.eu.org/en/) - To check the privacy audit of your Andoird apps.
+- [VirusTotal](https://www.virustotal.com/gui/) - To analyze suspicious files and URLs to detect types of malware.
+- [Blacklight - The Markup](https://themarkup.org/blacklight) - To inspect website privacy in real-time.
+- [Jeffrey's Image Metadata Viewer](http://exif.regex.info/exif.cgi) - To check pictures' metadata.
 
 ## HOW TO
 - [Safety remove your personal data, by Committee to Protect Journalists](https://cpj.org/2019/09/digital-safety-remove-personal-data-internet/)
