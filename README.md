@@ -20,6 +20,7 @@ Hi, I'm trying to cultivate links on digital security for learning. I hope it ca
 - [Protect your phone, by NY Times](https://www.nytimes.com/interactive/2019/12/19/opinion/location-tracking-privacy-tips.html)
 - [Overcoming Stalkerware by Coalition Against Stalkerware](https://stopstalkerware.org/get-help/)
 - [Remove metadata, by Digital Citizen](https://www.digitalcitizen.life/remove-metadata-file/)
+- [A DIY Guide to Feminist Cybersecurity](https://hackblossom.org/cybersecurity/?utm_source=pocket_mylist)
 
 ## REPOSITORY
 - [De-google-ify Internet](https://degooglisons-internet.org/en/alternatives)
