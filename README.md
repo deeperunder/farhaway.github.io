@@ -37,12 +37,16 @@ Hi, I'm trying to cultivate links on digital security for learning. I hope it ca
 ## COMPREHENSIVE KIT
 - [Digital First Aid Kit](https://digitalfirstaid.org/en/) - a free resource to help rapid responders, digital security trainers, and tech-savvy activists to better protect themselves and the communities they support against the most common types of digital emergencies, by RaReNet & CiviCERT.
 - [Surveillance Self-Defense](https://ssd.eff.org/en) - Tips, Tools and How-tos for Safer Online Communications, by Electronic Frontier Foundation.
+- [Digital Security Helpline Community Documentation](https://accessnowhelpline.gitlab.io/community-documentation/index.html) - In this website you will find guides we use at Access Now Digital Security Helpline to handle different kinds of cases, mostly used by rapid responders or trainers, by AccessNow.
+- [DIY Cybersecurity for Domestic Violence](https://hackblossom.org/domestic-violence/)
 
 ## REPOSITORY
 - [De-google-ify Internet](https://degooglisons-internet.org/en/alternatives)
 - [Free and open source software catalogue for Android, by F-Droid](https://f-droid.org/)
 - [Alternative apps center, by Me & My Shadow](https://myshadow.org/resources)
 - [Repository on Online Gaming Security, especially for women](https://farhaway.github.io/securegaming/)
+- [Alternative Internet](https://github.com/redecentralize/alternative-internet)
+- [Digital Tools for Activism](https://github.com/drewrwilson/toolsforactivism)
 
 ## DOWNLOADS
 - [Zines from Psaroskala on OpenVPNs, Raspberry Pi, etc](https://psaroskalazines.gr/zines/)
