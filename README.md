@@ -23,7 +23,7 @@ Hi, I'm trying to cultivate links on digital security for learning. I hope it ca
 - [A DIY Guide to Feminist Cybersecurity](https://hackblossom.org/cybersecurity/?utm_source=pocket_mylist)
 - [Delete Yourself from Google Search](https://www.rd.com/article/how-to-delete-yourself-from-google-search/?utm_source=pocket_mylist) - Reader's Digest
 - [Back Up Your Digital Life: Hard Drives, Cloud-based Tools, and Tips](https://www.wired.com/story/how-to-back-up-your-digital-life/?utm_source=pocket_mylist) - Wired
-- [https://www.lifewire.com/secure-your-portable-wi-fi-hotspot-2487656?utm_source=pocket_mylist](https://www.lifewire.com/secure-your-portable-wi-fi-hotspot-2487656?utm_source=pocket_mylist) - Lifewire
+- [How to Secure Your Portable Wi-Fi Hotspot](https://www.lifewire.com/secure-your-portable-wi-fi-hotspot-2487656?utm_source=pocket_mylist) - Lifewire
 
 ## COMPREHENSIVE KIT
 - [Digital First Aid Kit](https://digitalfirstaid.org/en/) - a free resource to help rapid responders, digital security trainers, and tech-savvy activists to better protect themselves and the communities they support against the most common types of digital emergencies, by RaReNet & CiviCERT.
