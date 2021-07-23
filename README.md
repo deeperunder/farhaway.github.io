@@ -1,11 +1,11 @@
-# SECURE GARDENING
+# Secure Gardening
 Hi, I'm trying to cultivate links on digital security for learning. I hope it can be useful for you too. 
 
-## Checking Tools
+## CHECKING TOOLS
 - [Have I Been Pwned](http://www.haveibeenpwnd.com/) - To check if your email or phone is in a data breach.
-- [Also to check if your email or phone is in a data breach, but by Firefox](https://monitor.firefox.com)
-- [Also to check if your email or phone is in a data breach, but Indonesian](https://periksadata.com/)
-- [To check if the passwords you use is part of a data breach, by Have I Been Pwnd](https://haveibeenpwned.com/Passwords)
+- [Firefox Monitor](https://monitor.firefox.com) - Also to check if your email or phone is in a data breach, Firefox use Have I Been Pwned data.
+- [Periksa Data](https://periksadata.com/) - Also to check if your email or phone is in a data breach, but in Indonesian
+- [Have I Been Pwned: Pwned Passwords](https://haveibeenpwned.com/Passwords) - To check if the passwords you use is part of a data breach.
 - [To check how strong your passwords, by Passfault](http://passfault.com/)
 - [To scan your website security, by Mozilla](https://observatory.mozilla.org/)
 - [To check the privacy audit of your Andoird apps, by Exodus](https://reports.exodus-privacy.eu.org/en/)
