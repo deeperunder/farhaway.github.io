@@ -2,7 +2,7 @@
 Hi, I'm trying to cultivate links on digital security for learning. I hope it can be useful for you too. 
 
 ## CHECKING TOOLS
-- [To check if your email or phone is in a data breach, by Have I Been Pwned](http://www.haveibeenpwnd.com/)
+- [Have I Been Pwned](http://www.haveibeenpwnd.com/) - To check if your email or phone is in a data breach.
 - [Also to check if your email or phone is in a data breach, but by Firefox](https://monitor.firefox.com)
 - [Also to check if your email or phone is in a data breach, but Indonesian](https://periksadata.com/)
 - [To check if the passwords you use is part of a data breach, by Have I Been Pwnd](https://haveibeenpwned.com/Passwords)
