@@ -29,6 +29,7 @@ Hi, I'm trying to cultivate links on digital security for learning. I hope it ca
 
 ## DOWNLOADS
 - [Zines from Psaroskala on OpenVPNs, Raspberry Pi, etc](https://psaroskalazines.gr/zines/)
+- [Tor: Myths and Facts One-Pager Handsout by Electronic Frontier Foundation](https://www.eff.org/document/tor-myths-and-facts-0)
 
 
 
