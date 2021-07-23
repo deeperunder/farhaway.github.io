@@ -21,6 +21,8 @@ Hi, I'm trying to cultivate links on digital security for learning. I hope it ca
 - [Overcoming Stalkerware by Coalition Against Stalkerware](https://stopstalkerware.org/get-help/)
 - [Remove metadata, by Digital Citizen](https://www.digitalcitizen.life/remove-metadata-file/)
 - [A DIY Guide to Feminist Cybersecurity](https://hackblossom.org/cybersecurity/?utm_source=pocket_mylist)
+- [Delete Yourself from Google Search](https://www.rd.com/article/how-to-delete-yourself-from-google-search/?utm_source=pocket_mylist), by Reader's Digest
+- [Back Up Your Digital Life: Hard Drives, Cloud-based Tools, and Tips](https://www.wired.com/story/how-to-back-up-your-digital-life/?utm_source=pocket_mylist) - Wired
 
 ## REPOSITORY
 - [De-google-ify Internet](https://degooglisons-internet.org/en/alternatives)
