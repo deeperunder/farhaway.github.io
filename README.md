@@ -1,4 +1,5 @@
 # Secure Gardening
+Here I'm trying to cultivate links on digital security for self-learning. I hope it can be useful for you if for any reason you landed here. Hopefully, it will grow.
 
 ## CHECKING TOOLS
 - [To check if your email or phone is in a data breach, by Have I Been Pwned](http://www.haveibeenpwnd.com/)
@@ -28,3 +29,6 @@
 
 ## DOWNLOADS
 - [Zines from Psaroskala on OpenVPNs, Raspberry Pi, etc](https://psaroskalazines.gr/zines/)
+
+
+#### Contact: fanifanifani@protonmail.com
