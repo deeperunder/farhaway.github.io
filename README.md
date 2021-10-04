@@ -12,6 +12,7 @@ Hi, I'm trying to cultivate links on digital security for learning. Expect stuff
 - [VirusTotal](https://www.virustotal.com/gui/) - To analyze suspicious files and URLs to detect types of malware.
 - [Blacklight - The Markup](https://themarkup.org/blacklight) - To inspect website privacy in real-time.
 - [Jeffrey's Image Metadata Viewer](http://exif.regex.info/exif.cgi) - To check pictures' metadata.
+- [Cover Your Tracks](https://coveryourtracks.eff.org/) - To see how trackers see your browser.
 
 ## HOW TO
 - [Digital Hygiene 101: How to practice digital safety and security](https://coconet.social/digital-hygiene-safety-security/)
