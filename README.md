@@ -47,10 +47,12 @@ Hi, I'm trying to cultivate links on digital security for learning. Expect stuff
 - [Repository on Online Gaming Security, especially for women](https://farhaway.github.io/securegaming/)
 - [Alternative Internet](https://github.com/redecentralize/alternative-internet)
 - [Digital Tools for Activism](https://github.com/drewrwilson/toolsforactivism)
+- [privacytools.io](https://www.privacytools.io/)
+- [Privacy Guides](https://privacyguides.org/)
 
 ## DOWNLOADS
 - [Zines from Psaroskala on OpenVPNs, Raspberry Pi, etc](https://psaroskalazines.gr/zines/)
 - [Tor: Myths and Facts One-Pager Handsout by Electronic Frontier Foundation](https://www.eff.org/document/tor-myths-and-facts-0)
 
 
-#### contact: farhanah88@protonmail.com
+#### contact: fanifanifani@protonmail.com
