@@ -34,6 +34,7 @@ Hi, I'm trying to cultivate links on digital security for learning. Expect stuff
 - [How to Track the Tech That's Tracking You Every Day](https://gizmodo.com/how-to-track-the-tech-thats-tracking-you-every-day-1843908029)
 - [How to Reset Your Web Browser and Start Again From Scratch](https://gizmodo.com/how-to-reset-your-web-browser-and-start-again-from-scra-1842094169/amp?__twitter_impression=true&utm_source=pocket_mylist)
 - [Google collects a frightening amount of data about you. You can find and delete it now](https://www.cnet.com/tech/services-and-software/google-collects-a-frightening-amount-of-data-about-you-you-can-find-and-delete-it-now/)
+- [What to do when your website down](https://github.com/OpenInternet/MyWebsiteIsDown/blob/master/MyWebsiteIsDown.md)
 
 ## COMPREHENSIVE KIT
 - [Digital First Aid Kit](https://digitalfirstaid.org/en/) - a free resource to help rapid responders, digital security trainers, and tech-savvy activists to better protect themselves and the communities they support against the most common types of digital emergencies, by RaReNet & CiviCERT.
